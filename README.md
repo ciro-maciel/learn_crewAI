@@ -48,7 +48,3 @@ I am always open to new collaborations and projects. If you have an interesting 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-```
