@@ -4,7 +4,7 @@ Welcome to the repository for learning how to use CrewAI, a powerful framework f
 
 ## What is CrewAI?
 
-CrewAI is a framework designed for creating and managing AI-powered tools that work collaboratively. It enables the development of AI "crews" composed of specialized agents and tasks, allowing for sophisticated automation and coordination in various domains like DevOps, CI/CD, and more.
+CrewAI is a framework designed for creating and managing AI-powered tools that work collaboratively. It enables the development of AI "crews" composed of specialized agents and tasks, allowing for sophisticated automation and coordination in various domains, and more, much more...
 
 ## About the Project
 
