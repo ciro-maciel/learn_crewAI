@@ -27,7 +27,7 @@ $ poetry install
 ## References
 
 - [crewAI](https://www.crewai.com/)
-- [Poetry Documentation](https://docs.crewai.com/)
+- [crewAI Documentation](https://docs.crewai.com/)
 
 ## About the Author
 
