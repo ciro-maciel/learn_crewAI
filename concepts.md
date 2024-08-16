@@ -85,3 +85,18 @@ Multi-agent systems (MAS) are integral in automating complex tasks, where multip
 6. **Optimizing Success**: The complexity of your MAS will dictate the level of detail needed. Proper task management ensures agents perform efficiently, leading to a successful system.
 
 In summary, effective task management is essential in MAS. By leveraging crewAI, you can create well-defined tasks that set your agents up for success, ensuring your system achieves its goals.
+
+
+## Building Effective Tools
+
+<p align="center">
+<img src="images/tool.jpg" height="250"> 
+</p>
+
+Tools play a crucial role in enabling agents to communicate with the outside world. crewAI offers a robust framework for implementing effective tools. Here’s a concise overview of the key aspects:
+
+1. **Versatility**: Tools must handle various types of requests and convert inputs appropriately to interact effectively with both AI applications and external systems.
+
+2. **Fault Tolerance**: Effective tools should handle exceptions gracefully without halting agent execution. crewAI supports fault tolerance by allowing tools to self-heal and manage errors without stopping the entire system.
+
+3. **Caching**: Implementing caching is crucial to avoid unnecessary API calls, reduce execution time, and improve system efficiency. crewAI offers cross-agent caching to optimize performance and resource usage.
