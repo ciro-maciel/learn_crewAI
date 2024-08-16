@@ -14,7 +14,7 @@ CrewAI also emphasizes the importance of coordination and communication between 
 ## Building Effective Multi-Agent Systems: 6 Essential Pillars
 
 <p align="center">
-<img src="images/agents_1.png" height="300"> 
+<img src="images/agents.png" height="300"> 
 </p>
 
 Creating effective multi-agent systems requires considering several factors. Six fundamental pillars stand out in this process:
@@ -46,3 +46,18 @@ Creating effective multi-agent systems requires considering several factors. Six
 **Conclusion**
 
 By considering these six pillars, developers can create more robust, adaptable, and capable multi-agent systems to handle complex challenges. The combination of customization, focus, appropriate tools, cooperation, security, and memory is fundamental to the success of these systems.
+
+
+## Think as a Manager
+
+<p align="center">
+<img src="images/manager.jpg" height="300"> 
+</p>
+
+### **"Imagine creating agents as if you were hiring a team.** 
+
+When building multi-agent systems, it’s crucial to design agents that excel. Think of yourself as a manager. Managers excel at defining goals and processes. Apply this mindset to your agents. 
+
+### **Focus on the desired outcome and the steps needed to achieve it.** Then, envision the ideal team members for this task. What roles, backgrounds, and objectives would they have? 
+
+By adopting this managerial perspective, you’ll create agents that are more effective and aligned with your overall goals." 
