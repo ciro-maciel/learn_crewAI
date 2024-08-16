@@ -3,7 +3,7 @@
 CrewAI is a multi-agent system framework designed to simplify the deployment and management of AI agents working collaboratively to achieve complex tasks. The core concept revolves around creating a "crew" of agents, each with specialized roles and capabilities. These agents can communicate and cooperate seamlessly, enabling them to handle tasks that would be challenging for a single AI agent to accomplish alone.
 
 <p align="center">
-<img src="images/concept.jpg" height="350"> 
+<img src="images/concept.png" height="350"> 
 </p>
 
 At the heart of CrewAI is the concept of modularity, where each agent is a self-contained module with specific expertise. This modular approach allows for flexibility in building AI systems, as developers can mix and match agents based on the requirements of the task at hand. The framework also supports scalability, allowing developers to easily add or remove agents as the complexity of the task evolves.
