@@ -106,8 +106,7 @@ Tools play a crucial role in enabling agents to communicate with the outside wor
 In CrewAI, processes orchestrate the execution of tasks by agents, akin to project management in human teams. These processes ensure tasks are distributed and executed efficiently, in alignment with a predefined strategy.
 
 <p align="center">
-<img src="images/together.jpg" height="200"> 
-<img src="images/process.jpg" height="200"> 
+<img src="images/process.jpg" height="250"> 
 </p>
 
 One of the main challenges in managing multi-agent systems is selecting the appropriate collaboration method. Depending on the context and objectives, agents can operate sequentially, in parallel, or hierarchically. Each of these methods offers distinct advantages:
