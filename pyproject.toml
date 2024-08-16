@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "learn-crewai"
+version = "0.1.0"
+description = ""
+authors = ["Ciro Cesar Maciel <ciro.maciel@rili.be>"]
+license = "MIT"
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.12,<=3.13"
+crewai = "^0.51.0"
+crewai-tools = "^0.8.3"
+langchain-community = "^0.2.11"
+python-dotenv = "^1.0.1"
+duckduckgo-search = "^6.2.6"
+pydantic = "^2.8.2"
+langchain-openai = "^0.1.21"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

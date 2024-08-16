@@ -15,6 +15,46 @@ This project aims to provide a comprehensive introduction to CrewAI, covering th
 - Python 3.8 or higher, see my Fast Course for [Learn: Python](https://github.com/ciro-maciel/learn_python)
 - Poetry (Python package manager), see my Fast Course for [Learn: Poetry](https://github.com/ciro-maciel/learn_poetry)
 
+
+#### OpenAI
+[OpenAI](https://openai.com/) is an AI research organization focused on benefiting humanity.
+
+**Generate an OpenAI API Key**
+
+1. **Sign Up:** Create an account at [OpenAI](https://platform.openai.com/signup).
+2. **Dashboard:** Go to the **Dashboard** and click **"API Keys"**.
+3. **Create Key:** Click **"Create new secret key"**.
+4. **Copy & Save:** Store the key securely.
+5. **Optional: Store in `.env`**
+    - Add to a `.env` file:
+
+```env
+OPENAI_API_KEY=your_api_key_here
+```
+
+**References**
+
+- [OpenAI API Documentation](https://beta.openai.com/docs/api-reference/)
+- [GPT-4o mining](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
+- [Pricing](https://openai.com/api/pricing/)
+
+
+### Serper
+[Serper](https://serper.dev) provides search engine data and SERP insights through an API, allowing developers to programmatically retrieve search results.
+
+**Generate a Serper API Key**
+
+1. **Sign Up:** Go to [serper.dev](https://serper.dev) and create an account.
+2. **Access the Dashboard:** After logging in, head to your **Dashboard**.
+3. **Generate API Key:** Find the **"API Keys"** section and click **"Generate new API key"**.
+4. **Copy and Save:** Copy the key and store it securely.
+5. **Optional - Store in `.env`:**
+   - Add the key to a `.env` file in your project:
+
+```env
+SERPER_API_KEY=your_api_key_here
+```
+
 ### Installation
 
 To install CrewAI, first clone the repository and install the necessary dependencies:
@@ -24,8 +64,17 @@ $ git clone https://github.com/ciro-maciel/learn_crewAI.git
 $ poetry install
 ```
 
+
+
+
+
+
+
+
+
 ## References
 
+- [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
 - [crewAI](https://www.crewai.com/)
 - [crewAI Documentation](https://docs.crewai.com/)
 
