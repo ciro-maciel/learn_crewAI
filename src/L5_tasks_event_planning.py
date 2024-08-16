@@ -2,6 +2,8 @@
 # 
 # In this lesson, you will learn more about Tasks.
 
+import os
+
 # Warning control
 import warnings
 warnings.filterwarnings('ignore')
@@ -9,6 +11,7 @@ warnings.filterwarnings('ignore')
 from dotenv import load_dotenv
 from crewai import Agent, Crew, Task
 
+os.environ["OPENAI_MODEL_NAME"] = 'gpt-4o-mini'
 load_dotenv()
 
 # ## crewAI Tools

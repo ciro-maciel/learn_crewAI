@@ -5,6 +5,8 @@
 # - Fault Tolerance
 # - Caching
 
+import os
+
 # Warning control
 import warnings
 warnings.filterwarnings('ignore')
@@ -12,6 +14,7 @@ warnings.filterwarnings('ignore')
 from dotenv import load_dotenv
 from crewai import Agent, Task, Crew
 
+os.environ["OPENAI_MODEL_NAME"] = 'gpt-4o-mini'
 load_dotenv()
 
 # ## Creating Agents

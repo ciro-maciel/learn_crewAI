@@ -2,6 +2,8 @@
 # 
 # In this lesson, you will learn ways for making agents collaborate with each other.
 
+import os
+
 # Warning control
 import warnings
 warnings.filterwarnings('ignore')
@@ -10,6 +12,7 @@ from dotenv import load_dotenv
 from crewai import Agent, Task, Crew, Process
 from langchain_openai import ChatOpenAI
 
+os.environ["OPENAI_MODEL_NAME"] = 'gpt-4o-mini'
 load_dotenv()
 
 # ## crewAI Tools
