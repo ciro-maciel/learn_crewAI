@@ -100,3 +100,23 @@ Tools play a crucial role in enabling agents to communicate with the outside wor
 2. **Fault Tolerance**: Effective tools should handle exceptions gracefully without halting agent execution. crewAI supports fault tolerance by allowing tools to self-heal and manage errors without stopping the entire system.
 
 3. **Caching**: Implementing caching is crucial to avoid unnecessary API calls, reduce execution time, and improve system efficiency. crewAI offers cross-agent caching to optimize performance and resource usage.
+
+
+##  Work Together
+
+In CrewAI, processes orchestrate the execution of tasks by agents, akin to project management in human teams. These processes ensure tasks are distributed and executed efficiently, in alignment with a predefined strategy.
+
+<p align="center">
+<img src="images/collaboration.png" height="250"> 
+</p>
+
+One of the main challenges in managing multi-agent systems is selecting the appropriate collaboration method. Depending on the context and objectives, agents can operate sequentially, in parallel, or hierarchically. Each of these methods offers distinct advantages:
+
+
+- **Sequential:** Allows each agent to complete a task and pass the result to the next agent, ideal for linear workflows.
+- **Parallel:** Facilitates the simultaneous execution of tasks by different agents, speeding up the process in scenarios that demand quickness.
+- **Hierarchical:** A managing agent delegates and reviews the work of other agents, ensuring consistency and the achievement of the initial goal.
+
+## The Flexibility of crewAI
+
+crewAI stands out for its flexibility in supporting these different collaboration methods, adapting to the needs of the project. Additionally, the platform allows agents to perform tasks asynchronously and cooperate more dynamically, which is crucial in scenarios where adaptability is required.
