@@ -19,27 +19,27 @@ CrewAI also emphasizes the importance of coordination and communication between 
 
 Creating effective multi-agent systems requires considering several factors. Six fundamental pillars stand out in this process:
 
-### 1. Role Playing
+1. Role Playing
 * **Customization:** Assigning specific roles to agents, as if they were people on a team, directly influences the quality of responses.
 * **Context:** Defining a context and a "backstory" for each agent enriches the interaction and relevance of the responses.
 
-### 2. Focus
+2. Focus
 * **Specific tasks:** Each agent should have a well-defined task to avoid information overload and improve accuracy.
 * **Avoiding generalization:** Instead of an "all-powerful" agent, it's preferable to have multiple specialized agents.
 
-### 3. Appropriate Tools
+3. Appropriate Tools
 * **Right equipment:** Providing agents with the necessary tools for their tasks prevents confusion and inefficiency.
 * **Avoiding overload:** An excess of tools can compromise performance, especially in smaller models.
 
-### 4. Cooperation
+4. Cooperation
 * **Teamwork:** The ability of agents to collaborate, exchange information, and delegate tasks leads to superior results.
 * **Simulation of conversations:** The cooperation between agents simulates the refinement process that occurs in human conversations.
 
-### 5. Guardrails
+5. Guardrails
 * **Security:** Implementing mechanisms to prevent unwanted behaviors, such as hallucinations and infinite loops.
 * **Consistency:** Ensuring reliable and consistent results through clear guidelines.
 
-### 6. Memory
+6. Memory
 * **Learning and retention:** The ability to remember past interactions allows agents to learn and improve continuously.
 * **Types of memory:** Short-term, long-term, and entity memory are important for different purposes.
 
