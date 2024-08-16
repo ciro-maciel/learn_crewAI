@@ -51,7 +51,7 @@ By considering these six pillars, developers can create more robust, adaptable, 
 ## Think as a Manager
 
 <p align="center">
-<img src="images/structure.jpg" height="300"> 
+<img src="images/manager.jpg" height="300"> 
 </p>
 
 ### **"Imagine creating agents as if you were hiring a team.** 
