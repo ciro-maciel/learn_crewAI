@@ -61,3 +61,27 @@ When building multi-agent systems, it’s crucial to design agents that excel. T
 ### **Focus on the desired outcome and the steps needed to achieve it.** Then, envision the ideal team members for this task. What roles, backgrounds, and objectives would they have? 
 
 By adopting this managerial perspective, you’ll create agents that are more effective and aligned with your overall goals." 
+
+
+## Efficient Task Management
+
+<p align="center">
+<img src="images/tasks.jpg" height="250"> 
+</p>
+
+
+Multi-agent systems (MAS) are integral in automating complex tasks, where multiple agents work together to achieve a common goal. Task management is crucial in these systems, and crewAI offers a robust framework for optimizing this process. Here’s a concise overview of the key aspects:
+
+1. **Defining the System**: Start by establishing the overall objective, like organizing an event. Agents can be assigned specific roles, such as finding a venue or managing catering.
+
+2. **Task Importance**: Tasks are the foundation of MAS. Clearly defining what each agent is responsible for ensures the system functions smoothly.
+
+3. **Task Creation**: Clearly describe the task and set expectations for the outcome. This clarity helps agents perform their roles effectively.
+
+4. **CrewAI’s Mandatory Attributes**: crewAI requires a task description and an expected outcome, ensuring tasks are well-defined and executable.
+
+5. **Additional Parameters**: crewAI allows for additional customization, such as setting context, defining callbacks, and enabling parallel task execution.
+
+6. **Optimizing Success**: The complexity of your MAS will dictate the level of detail needed. Proper task management ensures agents perform efficiently, leading to a successful system.
+
+In summary, effective task management is essential in MAS. By leveraging crewAI, you can create well-defined tasks that set your agents up for success, ensuring your system achieves its goals.
