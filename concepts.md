@@ -65,7 +65,7 @@ By considering these six pillars, developers can create more robust, adaptable, 
 ## Efficient Task 
 
 <p align="center">
-<img src="images/tasks.jpg" height="250"> 
+<img src="images/task.jpg" height="250"> 
 </p>
 
 
