@@ -32,13 +32,6 @@ This project aims to provide a comprehensive introduction to CrewAI, covering th
 OPENAI_API_KEY=your_api_key_here
 ```
 
-**References**
-
-- [OpenAI API Documentation](https://beta.openai.com/docs/api-reference/)
-- [GPT-4o mining](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
-- [Pricing](https://openai.com/api/pricing/)
-
-
 ### Serper
 [Serper](https://serper.dev) provides search engine data and SERP insights through an API, allowing developers to programmatically retrieve search results.
 
@@ -130,6 +123,9 @@ $ python src/L7_job_application_crew.py
 - [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
 - [crewAI](https://www.crewai.com/)
 - [crewAI Documentation](https://docs.crewai.com/)
+- [GPT-4o mining](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
+- [Pricing](https://openai.com/api/pricing/)
+
 
 ## About the Author
 
