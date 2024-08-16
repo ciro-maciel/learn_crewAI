@@ -118,3 +118,10 @@ One of the main challenges in managing multi-agent systems is selecting the appr
 ## The Flexibility of crewAI
 
 crewAI stands out for its flexibility in supporting these different collaboration methods, adapting to the needs of the project. Additionally, the platform allows agents to perform tasks asynchronously and cooperate more dynamically, which is crucial in scenarios where adaptability is required.
+
+
+## References
+
+- [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
+- [crewAI](https://www.crewai.com/)
+- [crewAI Documentation](https://docs.crewai.com/)
