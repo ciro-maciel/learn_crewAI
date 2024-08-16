@@ -2,7 +2,7 @@
 
 Welcome to the repository for learning how to use CrewAI, a powerful framework for AI-driven task automation. This repository serves as a resource for developers looking to integrate CrewAI into their workflows for building complex, scalable AI systems.
 
-## CrewAI Concepts, why??
+## CrewAI concepts, why??
 
 The acquisition of knowledge is a cornerstone of personal and professional growth, but not all learning is created equal. While memorizing facts and figures has its place, truly grasping the underlying [concepts](concepts.md) of a subject can be transformative. Understanding core principles and ideas provides a robust framework for deeper learning, problem-solving, and innovation across various fields. 
 
@@ -14,13 +14,13 @@ The acquisition of knowledge is a cornerstone of personal and professional growt
 6. Comprehension of fundamental [concepts](concepts.md) is crucial for the development of new theories and innovations.
 
 
-### Requirements
+## Requirements
 
 - Python 3.8 or higher, see my Fast Course for [Learn: Python](https://github.com/ciro-maciel/learn_python)
 - Poetry (Python package manager), see my Fast Course for [Learn: Poetry](https://github.com/ciro-maciel/learn_poetry)
 
 
-#### OpenAI
+### OpenAI
 [OpenAI](https://openai.com/) is an AI research organization focused on benefiting humanity.
 
 **Generate an OpenAI API Key**
@@ -62,9 +62,9 @@ $ poetry install
 $ poetry shell
 ```
 
-### Running the Lessons
+## Running the Lessons
 
-#### - L2: Create Agents to Research and Write an Article
+### - L2: Create Agents to Research and Write an Article
 
 In this lesson, you will be introduced to the foundational concepts of multi-agent systems and get an overview of the crewAI framework.
 
@@ -72,7 +72,7 @@ In this lesson, you will be introduced to the foundational concepts of multi-age
 $ python src/L2_research_write_article.py
 ```
 
-#### - L3: Multi-agent Customer Support Automation
+### - L3: Multi-agent Customer Support Automation
 
 In this lesson, you will learn about the six key elements which help make Agents perform even better:
 - Role Playing
@@ -86,7 +86,7 @@ In this lesson, you will learn about the six key elements which help make Agents
 $ python src/L3_customer_support.py
 ```
 
-#### - L4: Tools for a Customer Outreach Campaign
+### - L4: Tools for a Customer Outreach Campaign
 
 In this lesson, you will learn more about Tools. You'll focus on three key elements of Tools:
 - Versatility
@@ -97,7 +97,7 @@ In this lesson, you will learn more about Tools. You'll focus on three key eleme
 $ python src/L4_tools_customer_outreach.py
 ```
 
-#### - L5: Automate Event Planning
+### - L5: Automate Event Planning
 
 In this lesson, you will learn more about Tasks.
 
@@ -105,7 +105,7 @@ In this lesson, you will learn more about Tasks.
 $ python src/L5_tasks_event_planning.py
 ```
 
-#### - L6: Multi-agent Collaboration for Financial Analysis
+### - L6: Multi-agent Collaboration for Financial Analysis
 
 In this lesson, you will learn ways for making agents collaborate with each other.
 
@@ -113,7 +113,7 @@ In this lesson, you will learn ways for making agents collaborate with each othe
 $ python src/L6_collaboration_financial_analysis.py
 ```
 
-#### - L7: Build a Crew to Tailor Job Applications
+### - L7: Build a Crew to Tailor Job Applications
 
 In this lesson, you will built your first multi-agent system.
 
