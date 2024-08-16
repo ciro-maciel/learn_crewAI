@@ -1,4 +1,4 @@
-# CrewAI concepts
+# CrewAI Concepts
 
 CrewAI is a multi-agent system framework designed to simplify the deployment and management of AI agents working collaboratively to achieve complex tasks. The core concept revolves around creating a "crew" of agents, each with specialized roles and capabilities. These agents can communicate and cooperate seamlessly, enabling them to handle tasks that would be challenging for a single AI agent to accomplish alone.
 
@@ -11,7 +11,7 @@ At the heart of CrewAI is the concept of modularity, where each agent is a self-
 CrewAI also emphasizes the importance of coordination and communication between agents. Through a well-defined protocol, agents can share information, delegate tasks, and make decisions collectively. This collaborative approach not only enhances the efficiency of the AI system but also makes it more resilient and adaptable to dynamic environments.
 
 
-## Building Effective Multi-Agent Systems: 6 Essential Pillars
+## 6 Essential Pillars
 
 <p align="center">
 <img src="images/agents.png" height="300"> 
