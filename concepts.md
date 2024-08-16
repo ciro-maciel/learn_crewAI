@@ -13,7 +13,7 @@ CrewAI also emphasizes the importance of coordination and communication between 
 ## Think as a Manager
 
 <p align="center">
-<img src="images/manager.jpg" height="300"> 
+<img src="images/manager.jpg" height="250"> 
 </p>
 
 **"Imagine creating agents as if you were hiring a team.** 
@@ -28,7 +28,7 @@ By adopting this managerial perspective, you’ll create agents that are more ef
 ## Agent, a Person
 
 <p align="center">
-<img src="images/agents.png" height="300"> 
+<img src="images/agents.png" height="250"> 
 </p>
 
 Creating effective multi-agent systems requires considering several factors. Six fundamental pillars stand out in this process:
@@ -65,7 +65,7 @@ By considering these six pillars, developers can create more robust, adaptable, 
 ## Efficient Task 
 
 <p align="center">
-<img src="images/task.jpg" height="250"> 
+<img src="images/task.jpg" height="270"> 
 </p>
 
 
