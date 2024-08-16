@@ -10,8 +10,22 @@ At the heart of CrewAI is the concept of modularity, where each agent is a self-
 
 CrewAI also emphasizes the importance of coordination and communication between agents. Through a well-defined protocol, agents can share information, delegate tasks, and make decisions collectively. This collaborative approach not only enhances the efficiency of the AI system but also makes it more resilient and adaptable to dynamic environments.
 
+## Think as a Manager
 
-## 6 Essential Pillars
+<p align="center">
+<img src="images/manager.jpg" height="300"> 
+</p>
+
+### **"Imagine creating agents as if you were hiring a team.** 
+
+When building multi-agent systems, it’s crucial to design agents that excel. Think of yourself as a manager. Managers excel at defining goals and processes. Apply this mindset to your agents. 
+
+### **Focus on the desired outcome and the steps needed to achieve it.** Then, envision the ideal team members for this task. What roles, backgrounds, and objectives would they have? 
+
+By adopting this managerial perspective, you’ll create agents that are more effective and aligned with your overall goals." 
+
+
+## Agent, a Person
 
 <p align="center">
 <img src="images/agents.png" height="300"> 
@@ -48,22 +62,7 @@ Creating effective multi-agent systems requires considering several factors. Six
 By considering these six pillars, developers can create more robust, adaptable, and capable multi-agent systems to handle complex challenges. The combination of customization, focus, appropriate tools, cooperation, security, and memory is fundamental to the success of these systems.
 
 
-## Think as a Manager
-
-<p align="center">
-<img src="images/manager.jpg" height="300"> 
-</p>
-
-### **"Imagine creating agents as if you were hiring a team.** 
-
-When building multi-agent systems, it’s crucial to design agents that excel. Think of yourself as a manager. Managers excel at defining goals and processes. Apply this mindset to your agents. 
-
-### **Focus on the desired outcome and the steps needed to achieve it.** Then, envision the ideal team members for this task. What roles, backgrounds, and objectives would they have? 
-
-By adopting this managerial perspective, you’ll create agents that are more effective and aligned with your overall goals." 
-
-
-## Efficient Task Management
+## Efficient Task 
 
 <p align="center">
 <img src="images/tasks.jpg" height="250"> 
@@ -87,7 +86,7 @@ Multi-agent systems (MAS) are integral in automating complex tasks, where multip
 In summary, effective task management is essential in MAS. By leveraging crewAI, you can create well-defined tasks that set your agents up for success, ensuring your system achieves its goals.
 
 
-## Building Effective Tools
+## Effective Tools
 
 <p align="center">
 <img src="images/tool.jpg" height="250"> 
@@ -111,7 +110,6 @@ In CrewAI, processes orchestrate the execution of tasks by agents, akin to proje
 </p>
 
 One of the main challenges in managing multi-agent systems is selecting the appropriate collaboration method. Depending on the context and objectives, agents can operate sequentially, in parallel, or hierarchically. Each of these methods offers distinct advantages:
-
 
 - **Sequential:** Allows each agent to complete a task and pass the result to the next agent, ideal for linear workflows.
 - **Parallel:** Facilitates the simultaneous execution of tasks by different agents, speeding up the process in scenarios that demand quickness.
