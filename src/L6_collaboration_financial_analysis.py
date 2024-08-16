@@ -1,7 +1,3 @@
-# # L6: Multi-agent Collaboration for Financial Analysis
-# 
-# In this lesson, you will learn ways for making agents collaborate with each other.
-
 import os
 
 # Warning control

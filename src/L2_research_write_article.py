@@ -1,7 +1,3 @@
-# # L2: Create Agents to Research and Write an Article
-# 
-# In this lesson, you will be introduced to the foundational concepts of multi-agent systems and get an overview of the crewAI framework.
-
 import os
 
 # Warning control

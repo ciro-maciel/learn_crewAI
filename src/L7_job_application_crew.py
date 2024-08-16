@@ -1,7 +1,3 @@
-# # L7: Build a Crew to Tailor Job Applications
-# 
-# In this lesson, you will built your first multi-agent system.
-
 import os
 
 # Warning control

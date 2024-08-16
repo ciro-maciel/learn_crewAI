@@ -55,21 +55,74 @@ OPENAI_API_KEY=your_api_key_here
 SERPER_API_KEY=your_api_key_here
 ```
 
-### Installation
+## Getting Started
 
 To install CrewAI, first clone the repository and install the necessary dependencies:
 
 ```bash
 $ git clone https://github.com/ciro-maciel/learn_crewAI.git
 $ poetry install
+$ poetry shell
 ```
 
+### Running the Lessons
 
+####  L2: Create Agents to Research and Write an Article
 
+In this lesson, you will be introduced to the foundational concepts of multi-agent systems and get an overview of the crewAI framework.
 
+```bash
+$ python src/L2_research_write_article.py
+```
 
+#### L3: Multi-agent Customer Support Automation
 
+In this lesson, you will learn about the six key elements which help make Agents perform even better:
+- Role Playing
+- Focus
+- Tools
+- Cooperation
+- Guardrails
+- Memory
 
+```bash
+$ python src/L3_customer_support.py
+```
+
+#### L4: Tools for a Customer Outreach Campaign
+
+In this lesson, you will learn more about Tools. You'll focus on three key elements of Tools:
+- Versatility
+- Fault Tolerance
+- Caching
+
+```bash
+$ python src/L4_tools_customer_outreach.py
+```
+
+#### L5: Automate Event Planning
+
+In this lesson, you will learn more about Tasks.
+
+```bash
+$ python src/L5_tasks_event_planning.py
+```
+
+#### L6: Multi-agent Collaboration for Financial Analysis
+
+In this lesson, you will learn ways for making agents collaborate with each other.
+
+```bash
+$ python src/L6_collaboration_financial_analysis.py
+```
+
+#### L7: Build a Crew to Tailor Job Applications
+
+In this lesson, you will built your first multi-agent system.
+
+```bash
+$ python src/L7_job_application_crew.py
+```
 
 
 ## References

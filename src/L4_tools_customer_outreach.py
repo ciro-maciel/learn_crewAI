@@ -1,10 +1,3 @@
-# # L4: Tools for a Customer Outreach Campaign
-# 
-# In this lesson, you will learn more about Tools. You'll focus on three key elements of Tools:
-# - Versatility
-# - Fault Tolerance
-# - Caching
-
 import os
 
 # Warning control

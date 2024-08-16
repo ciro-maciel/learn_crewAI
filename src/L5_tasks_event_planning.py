@@ -1,7 +1,3 @@
-# # L5: Automate Event Planning
-# 
-# In this lesson, you will learn more about Tasks.
-
 import os
 
 # Warning control
