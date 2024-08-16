@@ -16,11 +16,11 @@ CrewAI also emphasizes the importance of coordination and communication between 
 <img src="images/manager.jpg" height="300"> 
 </p>
 
-### **"Imagine creating agents as if you were hiring a team.** 
+**"Imagine creating agents as if you were hiring a team.** 
 
 When building multi-agent systems, it’s crucial to design agents that excel. Think of yourself as a manager. Managers excel at defining goals and processes. Apply this mindset to your agents. 
 
-### **Focus on the desired outcome and the steps needed to achieve it.** Then, envision the ideal team members for this task. What roles, backgrounds, and objectives would they have? 
+**Focus on the desired outcome and the steps needed to achieve it.** Then, envision the ideal team members for this task. What roles, backgrounds, and objectives would they have? 
 
 By adopting this managerial perspective, you’ll create agents that are more effective and aligned with your overall goals." 
 
