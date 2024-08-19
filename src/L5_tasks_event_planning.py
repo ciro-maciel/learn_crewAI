@@ -8,7 +8,8 @@ from dotenv import load_dotenv
 from crewai import Agent, Crew, Task
 
 os.environ["OPENAI_MODEL_NAME"] = 'gpt-4o-mini'
-load_dotenv()
+load_dotenv(dotenv_path='.env')
+load_dotenv(dotenv_path='.env.local', override=True)
 
 # ## crewAI Tools
 

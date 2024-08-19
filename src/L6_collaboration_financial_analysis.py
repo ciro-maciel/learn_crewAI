@@ -9,7 +9,8 @@ from crewai import Agent, Task, Crew, Process
 from langchain_openai import ChatOpenAI
 
 os.environ["OPENAI_MODEL_NAME"] = 'gpt-4o-mini'
-load_dotenv()
+load_dotenv(dotenv_path='.env')
+load_dotenv(dotenv_path='.env.local', override=True)
 
 # ## crewAI Tools
 from crewai_tools import ScrapeWebsiteTool, SerperDevTool
